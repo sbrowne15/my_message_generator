@@ -1,7 +1,7 @@
 # my_message_generator
 Codecademy Project - Mixed Messages
 
-I created a simple comparator generator using random number generation to pick an item from an array.  The function takes input from three seperate arrays to generate random comparator statements.
+I created a simple comparator generator using random number generation to pick an item from an array.  The function takes input from three separate arrays to generate random comparator statements.  Random selections include situation, verb, and noun.
 
 Example = "That is louder than a running hippo!!!"
 
